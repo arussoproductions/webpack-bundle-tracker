@@ -46,6 +46,11 @@ declare namespace BundleTrackerPlugin {
      * Default: `[ 'sha256', 'sha384', 'sha512' ]`
      */
     integrityHashes?: string[];
+    /**
+     * Like (use instead of) publicPath but takes a function that's passed assetName
+     * Default: `false`
+     */
+    assetNameAsPublicPath?: (assetName: Options) => string;
   }
   interface Contents {
     /**
