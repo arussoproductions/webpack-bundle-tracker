@@ -1,3 +1,5 @@
+This fork adds capability to use function to change public path, allowing for more customized public paths
+
 # Webpack Bundle Tracker [![Join the chat at https://gitter.im/owais/webpack-bundle-tracker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/owais/webpack-bundle-tracker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![master build status](https://circleci.com/gh/django-webpack/webpack-bundle-tracker.svg?style=svg)](https://circleci.com/gh/django-webpack/webpack-bundle-tracker)
 
